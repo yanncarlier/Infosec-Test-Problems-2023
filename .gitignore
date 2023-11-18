@@ -398,9 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 variables.tf
 infosec0.pem
-:wq
-
-
-
-
-
+NOTES.md
