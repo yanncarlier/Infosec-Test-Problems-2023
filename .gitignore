@@ -397,3 +397,10 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 variables.tf
+infosec0.pem
+:wq
+
+
+
+
+
