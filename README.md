@@ -54,6 +54,12 @@ Query the [Pokémon API](https://pokeapi.co/) for your two favourite Pokémon an
 
 We expect to be able to run this like `./pokemon.sh eevee pikachu > moves.txt` and get the list of common moves in `moves.txt`.
 
+
+
 Use `jq` for parsing the API response.
 Ensure that you handle errors.
 You are free to make assumptions about the availability of different tools, but document them if you use anything non-standard (e.g. GNU coreutils or BSD-specific versions of anything).
+
+(ChatGPT 3.5, 2023)
+
+
